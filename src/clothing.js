@@ -147,3 +147,5 @@ const clothing = [
             'https://slimages.macysassets.com/is/image/MCY/products/7/optimized/19346857_fpx.tif?op_sharpen=1&wid=1200&fit=fit,1&$filtersm$&fmt=webp',
     }
 ];
+
+export default clothing;
