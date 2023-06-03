@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.buttons {
+  margin-bottom: 20px;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 20px;
+}
+
+.outfit {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.item {
+  margin: 10px;
+  text-align: center;
+}
+
+.item img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.item p {
+  margin-top: 10px;
+  font-weight: bold;
+}
